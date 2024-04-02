@@ -1,0 +1,43 @@
+
+.ECM{
+    font-family: 'Montserrat', sans-serif, bold;
+    text-align:center;
+    /* margin: 5rem 0 5rem 0; */
+}
+
+.img-responsive {
+    max-width: 150%;
+}
+
+.lndbtn {
+    background-color: #5c93ce;
+    color: #000000;
+}
+
+.landingContainer {
+    margin-bottom: 10%;
+}
+
+.welcome-text {
+    line-height: 2;
+}
+
+.welcomeMessage {
+    margin-top: 2%;
+    /* margin-bottom: 5%; */
+}
+
+.CTA {
+    margin-top: 5%;
+}
+
+/* .carousel-inner > .carousel-item > .d-block {
+    margin: auto;
+} */
+
+.carousel-inner > .carousel-item > .d-block {
+    margin: auto;
+    /* padding-bottom: 20px; */
+    max-height: auto;
+    max-width: auto;
+}

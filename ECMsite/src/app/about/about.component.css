@@ -1,0 +1,11 @@
+.carousel {
+    margin: auto;
+    /* width:auto;  */
+    /* height:auto;  */
+} 
+
+.carousel-inner > .carousel-item > .d-block {
+    margin: auto;
+    padding-bottom: 20px;
+    max-height: 650px;
+}
