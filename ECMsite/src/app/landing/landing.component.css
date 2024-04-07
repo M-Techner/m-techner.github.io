@@ -6,7 +6,11 @@
 }
 
 .img-responsive {
-    max-width: 150%;
+    max-width: 125%;
+    max-height: 75%;
+    /* width: 100%;
+    height: auto; 
+    object-fit: cover; */
 }
 
 .lndbtn {
@@ -23,8 +27,8 @@
 }
 
 .welcomeMessage {
-    margin-top: 2%;
-    /* margin-bottom: 5%; */
+    margin-top: 3%;
+    margin-bottom: 3%;
 }
 
 .CTA {
@@ -37,7 +41,32 @@
 
 .carousel-inner > .carousel-item > .d-block {
     margin: auto;
-    /* padding-bottom: 20px; */
+    padding-bottom: 20%;
     max-height: auto;
     max-width: auto;
 }
+
+.hero { 
+    background-image: url('/assets/hero.jpeg');
+    background-size: cover cover;
+    min-height: 650px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-position-y: 6rem;
+    /* background-position-x: -6rem; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    opacity: .7;
+    /* margin: -8px 0 0 -6px; */
+    /* margin-top: auto; */
+
+} 
+
+.viewing {
+    height: 100vh;
+    width: 100vw;
+    /* margin:0%;  */
+}
+/* background: url(./942775.png) no-repeat center center fixed;
+background-size: cover; */

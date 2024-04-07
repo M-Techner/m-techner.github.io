@@ -27,10 +27,17 @@
     text-align: center;
 }
 
-html, body {width: auto!important; overflow-x: hidden!important} 
+html, body {
+    width: auto!important; 
+    /* height: 100vh;
+    width: 100vw; */
+    overflow-x: hidden!important
+} 
 
-.nav-item {
+
+
+/* .nav-item {
     margin-right: 2%;
-}
+} */
 
 

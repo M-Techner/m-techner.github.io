@@ -1,11 +1,16 @@
 .carousel {
     margin: auto;
+    z-index:0;
+    margin-bottom: 20%;
     /* width:auto;  */
     /* height:auto;  */
 } 
 
 .carousel-inner > .carousel-item > .d-block {
     margin: auto;
-    padding-bottom: 20px;
-    max-height: 650px;
+    /* margin-bottom: 8%; */
+    /* padding-bottom: 20px; */
+    max-height: 550px;
+    max-width: auto;
+    z-index:0;
 }

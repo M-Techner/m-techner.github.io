@@ -4,11 +4,21 @@
     margin-top: 5%;
     margin-bottom: 5%;
 }
+.hero-image { 
+    background-image: url('/assets/hero.jpeg'); 
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin-top:auto; */
+    opacity: .7;
 
-.headshot {
+  }
+/* .headshot {
     max-width: 25rem;
     max-height: 15rem;
-}
+} */
 
 .img-responsive {
     max-width: 100%;

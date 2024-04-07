@@ -1,11 +1,23 @@
-/* .container {
-    margin: 48px 35%;
-    font-family: "Arial", sans-serif;
+.container {
+    margin: auto;
+    /* /* font-family: "Arial", sans-serif; */
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+
+/* .container {
+    display: flex;
+    justify-content: space-around;
+    width: 150%;
+    max-width: 1200px;
+    margin-bottom: 3rem;
+} */
+
+
+
+/* 
 .nav_bar {
     background-color: darkslategray;
     padding: 30px 50px;
@@ -38,14 +50,14 @@
 .lndbtn {
     background-color: #5c93ce;
 } */
-
+/* 
 
 .affix {
     top: 0;
     width: 100%;
     z-index: 9999 !important;
-  }
+}
 
-  .affix + .container-fluid {
+.affix + .container-fluid {
     padding-top: 70px;
-  }
+  } */
